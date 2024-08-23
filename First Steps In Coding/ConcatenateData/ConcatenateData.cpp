@@ -10,4 +10,3 @@ int main()
 	cout << "You are " << firstName << " " + secondName + ", a " << age
 		<< "-years old person from " << town + ".";
 }
-
