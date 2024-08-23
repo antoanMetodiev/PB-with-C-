@@ -9,4 +9,3 @@ int main()
     cin >> secondNumber;
     cout << firstNumber * secondNumber << endl;
 }
-
