@@ -7,4 +7,3 @@ int main()
 	double bgnToUsd; cin >> bgnToUsd;
 	cout << bgnToUsd * usdToBgn;
 }
-
