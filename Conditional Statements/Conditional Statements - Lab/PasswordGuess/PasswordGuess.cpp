@@ -7,4 +7,3 @@ int main()
 	if (password == "s3cr3t!P@ssw0rd") cout << "Welcome";
 	else cout << "Wrong password!";
 }
-
