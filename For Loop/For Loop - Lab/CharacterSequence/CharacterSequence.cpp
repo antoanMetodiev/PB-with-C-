@@ -12,4 +12,3 @@ int main()
 		cout << text.at(i) << endl;
 	}
 }
-
