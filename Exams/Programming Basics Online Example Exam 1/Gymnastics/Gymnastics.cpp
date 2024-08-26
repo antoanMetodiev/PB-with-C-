@@ -10,7 +10,6 @@ int main()
     double difficult;
     double execution;
 
-    // Bulgaria:
     if (country == "Bulgaria")
     {
         if (subject == "ribbon")
@@ -66,10 +65,7 @@ int main()
         }
     }
 
-
-    // Output:
     printf("The team of %s get %.3f on %s.\n", country.c_str(), (difficult + execution), subject.c_str());
-
     double percent = 20 - (difficult + execution);
     percent = (percent / 20) * 100;
     printf("%.2f%%", percent);
