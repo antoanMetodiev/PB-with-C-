@@ -3,7 +3,6 @@ using namespace std;
 
 int main() {
     int n; cin >> n;
-
     int current = 1; 
     bool shouldBreak = false; 
 
@@ -22,6 +21,5 @@ int main() {
             break;
         }
     }
-
     return 0;
 }
