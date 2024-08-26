@@ -15,7 +15,6 @@ int main()
 
     int proteinShake = 0;
     int proteinBar = 0;
-
     int trainedPeople = 0;
     string input;
 
@@ -59,6 +58,5 @@ int main()
 
     printf("%.2f%% - work out\n", workoutPercentage);
     printf("%.2f%% - protein\n", proteinPercentage);
-
     return 0;
 }
