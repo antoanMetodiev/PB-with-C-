@@ -21,7 +21,6 @@ int main()
         {
             string pointsStr;
             getline(cin, pointsStr); 
-
             int points = stoi(pointsStr); 
 
             if (action == "Triple") {
@@ -37,7 +36,6 @@ int main()
             else {
                 failedShotsCount++;
             }
-
             shotsCount++;
         }
 
