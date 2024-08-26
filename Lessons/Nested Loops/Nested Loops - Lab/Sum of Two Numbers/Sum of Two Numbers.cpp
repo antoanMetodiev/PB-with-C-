@@ -7,7 +7,6 @@ int main()
     int startNumber; cin >> startNumber;
     int endNumber; cin >> endNumber;
     int magicNumber; cin >> magicNumber;
-
     int successCombinations = 0;
 
     for (int i = startNumber; i <= endNumber; i++)
